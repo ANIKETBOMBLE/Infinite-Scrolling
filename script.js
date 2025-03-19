@@ -1,4 +1,4 @@
-const accessKey = "ppkTR5GgzjzY0Tb7p1afq9sMUknWkSDHuGAOvebTPhU";
+const accessKey = "cdk6w4OMejFvGpMnBcECshp39ENB-0nDlXZ3eVRi5Ds";
 const count = 15;
 const url = `https://api.unsplash.com/photos/random?count=${count}&client_id=${accessKey}`;
 
